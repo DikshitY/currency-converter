@@ -13,6 +13,7 @@ body{
 }
 
 .container{
+    margin: 0 2rem;
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;

@@ -13,12 +13,11 @@ body{
 }
 
 .container{
-    margin: 0 2rem;
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
-    min-width: 40vh;
+    width: 40vh;
 }
 
 .amount{
